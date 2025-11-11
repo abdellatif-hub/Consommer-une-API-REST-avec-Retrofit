@@ -42,3 +42,9 @@ dev_dependencies:
 ## Installation
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
+***
+# 📄 Modèle : lib/data/models/post.dart
+...
+<img width="2559" height="1340" alt="image" src="https://github.com/user-attachments/assets/1ad5aa6d-af88-47c2-adb1-00401c0bcbc3" />
+***
+
