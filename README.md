@@ -59,7 +59,7 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 # 🧾 Conclusion
 
-Ce projet montre comment intégrer Retrofit dans Flutter pour :
+**Ce projet** montre comment intégrer Retrofit dans Flutter pour :
 Consommer des API REST externes,
 
 Gérer les données JSON facilement,
