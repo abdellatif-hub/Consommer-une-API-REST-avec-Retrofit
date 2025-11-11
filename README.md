@@ -56,9 +56,8 @@ flutter pub run build_runner build --delete-conflicting-outputs
 ...
 <img width="2559" height="1347" alt="image" src="https://github.com/user-attachments/assets/830a4f44-02e7-4435-968a-75a2ce582c87" />
 # 🧾 Conclusion
-...
-Ce projet montre comment intégrer Retrofit dans Flutter pour :
 
+Ce projet montre comment intégrer Retrofit dans Flutter pour :
 Consommer des API REST externes,
 
 Gérer les données JSON facilement,
