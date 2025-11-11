@@ -36,7 +36,8 @@ dependencies:
 dev_dependencies:
   retrofit_generator: ^10.0.1
   build_runner: ^2.6.0
-  json_serializable: ^6.10.0
+  json_serializable: ^6.10.0```
+***
 ## Installation
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
