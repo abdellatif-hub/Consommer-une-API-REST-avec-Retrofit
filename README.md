@@ -44,16 +44,16 @@ flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 ***
 # 📄 Modèle : lib/data/models/post.dart
-...
+
 <img width="2559" height="1340" alt="image" src="https://github.com/user-attachments/assets/1ad5aa6d-af88-47c2-adb1-00401c0bcbc3" />
 ***
 
 # 🌐 Interface Retrofit : lib/data/network/rest_client.dart
-...
+
 <img width="2559" height="1343" alt="image" src="https://github.com/user-attachments/assets/31868037-e4b2-4533-a4ca-c9acc01eddcc" />
 ***
 # 💻 Interface utilisateur : lib/ui/posts_page.dart
-...
+
 <img width="2559" height="1347" alt="image" src="https://github.com/user-attachments/assets/830a4f44-02e7-4435-968a-75a2ce582c87" />
 # 🧾 Conclusion
 
