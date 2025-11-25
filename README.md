@@ -67,7 +67,7 @@ Gérer les données JSON facilement,
 Afficher les résultats de manière dynamique et élégante.
 
 ✨ Ce modèle peut servir de base à n’importe quelle application Flutter connectée à une API.
-
+***
 # 📱 Application GitHub Users
 ## 📝 Description
 
