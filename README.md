@@ -115,8 +115,7 @@ L’application utilise :
 
 Ce projet m’a permis de découvrir et d’appliquer l’intégration d’API dans Flutter, d’améliorer mes compétences en conception d’interface, ainsi que de mettre en place des requêtes réseau avec Dio.
 L’application offre une expérience simple et efficace pour explorer des profils GitHub.
----
-
+***
 ## 🌦️ Page Météo 
 📝 Description
 
