@@ -110,6 +110,7 @@ L’application utilise :
 ✅ Interface fluide et responsive
 
 <img width="316" height="446" alt="image" src="https://github.com/user-attachments/assets/3f243328-1bf9-4fd4-a655-0c2bb6fa03fe" />
+
 ## ✅ Conclusion
 
 Ce projet m’a permis de découvrir et d’appliquer l’intégration d’API dans Flutter, d’améliorer mes compétences en conception d’interface, ainsi que de mettre en place des requêtes réseau avec Dio.
